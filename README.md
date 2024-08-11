@@ -1,1 +1,1 @@
-Deplyed at : https://ochi-cyan.vercel.app/
+Deployed at : https://ochi-cyan.vercel.app/
